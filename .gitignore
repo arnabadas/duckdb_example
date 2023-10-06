@@ -1,0 +1,8 @@
+/.vs
+/.vscode
+/build
+/out
+CMakeSettings.json.bak
+vc140.pdb
+err.txt
+out.txt
